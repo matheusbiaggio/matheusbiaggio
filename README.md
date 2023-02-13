@@ -1,5 +1,4 @@
-### Hi there! 👋
-#### Im Matheus Biaggio
+### Hi there! Im Matheus Biaggio 👋
 
 - 🌱 I’m currently learning SQL and Node.js
 - 😄 Pronouns: He
