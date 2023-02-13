@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbiaggio&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbiaggio&layout=compact)](https://github.com/matheusbiaggio/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbiaggio&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
