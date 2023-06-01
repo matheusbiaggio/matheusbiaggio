@@ -1,6 +1,6 @@
 ### Hi there! Im Matheus Biaggio 👋
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He
 
 ##
@@ -28,6 +28,10 @@
   <img align="center" alt="Matheus-MYSQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Matheus-NODE" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Matheus-SQUELIZE" height="30" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
+</div>
+<h2>Others</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Matheus-PYTHON" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br>
 
