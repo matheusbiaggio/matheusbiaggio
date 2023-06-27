@@ -1,6 +1,6 @@
 ### Hi there! Im Matheus Biaggio 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 😄 Pronouns: He
 
 ##
