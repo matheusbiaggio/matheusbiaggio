@@ -30,6 +30,7 @@
   <img align="center" alt="Matheus-SQUELIZE" height="30" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
   <img align="center" alt="Matheus-SQUELIZE" height="30" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="Matheus-PYTHON" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="EXPRES" height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
 <br>
 
