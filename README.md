@@ -1,6 +1,6 @@
 ### Hi there! Im Matheus Biaggio 👋
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning more about TypeScrypt
 - 😄 Pronouns: He
 
 ##
